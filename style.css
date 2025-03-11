@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+.logo{
+    position: absolute;  
+    left: 160px; 
+}
+
+body{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image:url(fluent_web_dark_85676b25112d493ee921.jpg)
+}
+
+.box{
+    width: 360px;
+    height: 340px;
+    background-color: #25282c;
+    margin-left: 188px;
+    margin-right: 188px;
+    display: flex;
+    border-radius: 12px;
+    padding: 40px;
+    top: 90px;
+    flex-direction: column;
+    position: relative;
+    left: 275px;
+}
+
+h1{
+    font-family: Noto Sans;
+    font-size: 25px;
+    color: white;
+    position: absolute;
+    top: 90px;
+    left: 130px;
+
+}
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: white;
+    position: absolute;
+    top: 260px;
+    left: 30px;
+    font-weight: 400;
+}
+
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: white;
+    position: absolute;
+    top: 150px;
+    left: 30px;
+    font-weight: 400;
+}
+
+button{
+    background-color: #008746;
+    height: 40px;
+    width: 353px;
+    border-radius: 7px;
+    border: none;
+    position: absolute;
+    top: 340px;
+}
+
